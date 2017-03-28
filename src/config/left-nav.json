@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Overview",
+        "id": 1,
+        "children": [
+            { "name": "Reports", "id": 2 },
+            { "name": "Analytics", "id": 3 },
+            { "name": "Exports", "id": 4 }
+        ]
+    },
+    {
+        "name": "Nav Item1",
+        "id": 5,
+        "children": [
+            { "name": "One more Nav", "id": 6 },
+            { "name": "Another Nav", "id": 7 },
+            { "name": "More Nav", "id": 8 }
+        ]
+    },
+    {
+        "name": "Nav Item2",
+        "id": 1,
+        "children": [
+            { "name": "One more Nav", "id": 9 },
+            { "name": "Another Nav", "id": 10 },
+            { "name": "More Nav", "id": 11 }
+        ]
+    }
+]
